@@ -17,7 +17,6 @@
 ---
 
 🌐 **Socials**:
-- [Facebook](https://www.facebook.com/profile.php?id=100074555771131)
 - [LinkedIn](https://www.linkedin.com/in/lu%C3%A2n-nguy%E1%BB%85n-th%C3%A0nh-670b7829b/)
 
 ---

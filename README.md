@@ -1,13 +1,8 @@
 # Hello everyone 👋
 
 💫 **About Me**:
-- 🔭 I’m currently studying about **Business Analytics** and **Artificial Intelligence**.  
-  Now I'm a senior in the **Faculty of Information Systems, University of Economics and Law**, Vietnam National University, Ho Chi Minh City.
-- 🌟 I’m looking for job positions related to:
-  - **Data Analytics**
-  - **Data Engineer**
-  - **Business Intelligence**
-  - **Bussiness Analytics**
+- 🔭 . I am a recent graduate from the Faculty of Information Systems, University of Economics and Law, Vietnam National University, Ho Chi Minh City. I possess a strong analytical mindset, with a particular focus on detecting anomalies and identifying fraud patterns to support effective risk management. I am passionate about leveraging data to optimize operations and drive strategic decisions, especially within the F&B, e-commerce, and retail sectors.
+
 - 💻 I'm an enthusiastic data intern with:
   - **Strong SQL and BI tools** experience like Tableau and Power BI.  
   - **Knowledge of databases and data warehouses** with a deep analytical mindset.  
